@@ -83,7 +83,7 @@
     border-radius: 5px;
   }
 
-  @media screen and (max-width:378px) {
+  @media screen and (max-width:379px) {
 
     .container{
     width: 420px;
