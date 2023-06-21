@@ -1,0 +1,148 @@
+.hoe{
+    border: 1px solid black;
+    margin-right: 20px;
+    padding: 5px 5px;
+    border-radius: 5px;
+  }
+  .hot{
+    border: 1px solid black;
+    margin-right: 20px;
+    padding: 5px 5px;
+    border-radius: 5px;
+  }
+  button{
+    background-color: rgb(0,164,0);
+    padding: 10px 60px;
+    border-radius: 5px;
+    border-color:rgb(0,164,0) ;
+    margin-left: 153px;
+    color: white;
+    width: 200px;
+    font-size: 20px;
+  }
+  input{
+    padding: 10px;
+    background-color:rgb(245,246,247) ;
+    border-radius: px;
+  }
+  .DOB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 165px;
+  }
+  .DOBB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    width: 165px;
+  }
+  .DOBBB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    width: 165px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .container{
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .first{
+    width: 230px;
+    border-radius: 5px;
+    border-color: #c7d1e0;
+  }
+  .eat{
+    padding-left: 1100px;
+    margin-left: 20px;
+    width: 50px;
+  }
+  #icon{
+    float: right;
+  }
+  .second{
+    border-color: #c7d1e0;
+    width: 485px; 
+    border-radius: 5px;
+  }
+
+  @media screen and (max-width:378px) {
+
+    .container{
+    width: 420px;
+    margin-top: 5%;
+    padding: 5%;
+    margin-left: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .button{
+    background-color: rgb(0,164,0);
+    padding: 10px 60px;
+    border-radius: 5px;
+    border-color:rgb(0,164,0) ;
+    margin-left: 50px;
+    color: white;
+    width: 200px;
+    font-size: 20px;
+  }
+  .first{
+    width: 380px;
+    border-radius: 5px;
+    border-color: #c7d1e0;
+  }
+  .second{
+    border-color: #c7d1e0;
+    width: 380px;
+  }
+  .DOB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 127px;
+  }
+  .DOBB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    width: 127px;
+  }
+  .DOBBB{
+    border: 1px solid black;
+    padding-right: 35px;
+    padding-top :5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    width: 127px;
+  }
+  .eat{
+    padding-left: 1100px;
+    margin-left: 20px;
+    width: 35px;
+  }
+  }
